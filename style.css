@@ -199,7 +199,14 @@ body {
 .bar-container {
   height: 2.7rem;
 }
-.dinosaur-box {
+
+                                       
+                     
+                      
+               		
+                    
+
+.エクス・アルビオ-box {
   position: absolute;
   top: 0;
   left: 0;
@@ -208,7 +215,7 @@ body {
   width: 100%;
   background-color: rgba(117, 204, 84, 0.2);
 }
-.dinosaur-bar {
+.エクス・アルビオ-bar {
   position: absolute;
   top: 0;
   left: 0;
@@ -216,7 +223,7 @@ body {
   border-radius: 10px;
   background-color: rgba(117, 204, 84, 1);
 }
-.deer-box {
+.イブラヒム-box {
   position: absolute;
   top: 0;
   left: 0;
@@ -225,7 +232,7 @@ body {
   width: 100%;
   background-color: rgba(117, 204, 84, 0.2);
 }
-.deer-bar {
+.イブラヒム-bar {
   position: absolute;
   top: 0;
   left: 0;
@@ -233,24 +240,24 @@ body {
   border-radius: 10px;
   background-color: rgba(117, 204, 84, 1);
 }
-.dog-box {
+.不破湊-box {
   position: absolute;
   top: 0;
   left: 0;
   height: 2rem;
   border-radius: 10px;
   width: 100%;
-  background-color: rgba(27, 175, 234, 0.2);
+  background-color: rgba(60, 0, 145, 0.3);
 }
-.dog-bar {
+.不破湊-bar {
   position: absolute;
   top: 0;
   left: 0;
   height: 2rem;
   border-radius: 10px;
-  background-color: rgba(27, 175, 234, 1);
+  background-color: rgba(60, 0, 145, 1);
 }
-.cat-box {
+.弦月藤士郎-box {
   position: absolute;
   top: 0;
   left: 0;
@@ -259,7 +266,7 @@ body {
   width: 100%;
   background-color: rgba(251, 176, 59, 0.2);
 }
-.cat-bar {
+.弦月藤士郎-bar {
   position: absolute;
   top: 0;
   left: 0;
@@ -267,7 +274,7 @@ body {
   border-radius: 10px;
   background-color: rgba(251, 176, 59, 1);
 }
-.bear-box {
+.弦月藤士郎-box {
   position: absolute;
   top: 0;
   left: 0;
@@ -276,7 +283,7 @@ body {
   width: 100%;
   background-color: rgba(195, 140, 102, 0.2);
 }
-.bear-bar {
+.弦月藤士郎-bar {
   position: absolute;
   top: 0;
   left: 0;
@@ -284,7 +291,7 @@ body {
   border-radius: 10px;
   background-color: rgba(195, 140, 102, 1);
 }
-.fox-box {
+.卯月コウ-box {
   position: absolute;
   top: 0;
   left: 0;
@@ -293,7 +300,7 @@ body {
   width: 100%;
   background-color: rgba(49, 132, 155, 0.2);
 }
-.fox-bar {
+.卯月コウ-bar {
   position: absolute;
   top: 0;
   left: 0;
@@ -301,7 +308,7 @@ body {
   border-radius: 10px;
   background-color: rgba(49, 132, 155, 1);
 }
-.rabbit-box {
+.ジョー・力一-box {
   position: absolute;
   top: 0;
   left: 0;
@@ -310,7 +317,7 @@ body {
   width: 100%;
   background-color: rgba(235, 166, 190, 0.2);
 }
-.rabbit-bar {
+.ジョー・力一-bar {
   position: absolute;
   top: 0;
   left: 0;
@@ -318,11 +325,352 @@ body {
   border-radius: 10px;
   background-color: rgba(235, 166, 190, 1);
 }
+.伏見ガク-box {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 2rem;
+  border-radius: 10px;
+  width: 100%;
+  background-color: rgba(117, 204, 84, 0.2);
+}
+.伏見ガク-bar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 2rem;
+  border-radius: 10px;
+  background-color: rgba(117, 204, 84, 1);
+}
+
+.剣持刀也-box {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 2rem;
+  border-radius: 10px;
+  width: 100%;
+  background-color: rgba(117, 204, 84, 0.2);
+}
+
+.剣持刀也-bar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 2rem;
+  border-radius: 10px;
+  background-color: rgba(117, 204, 84, 1);
+}
+
+.甲斐田晴-box {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 2rem;
+  border-radius: 10px;
+  width: 100%;
+  background-color: rgba(27, 175, 234, 0.2);
+}
+
+.甲斐田晴-bar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 2rem;
+  border-radius: 10px;
+  background-color: rgba(27, 175, 234, 1);
+}
+
+.成瀬鳴-box{
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 2rem;
+  border-radius: 10px;
+  width: 100%;
+  background-color: rgba(27, 175, 234, 0.2);
+}
+
+.成瀬鳴-bar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 2rem;
+  border-radius: 10px;
+  background-color: rgba(27, 175, 234, 1);
+}
+
+.三枝明那-box {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 2rem;
+  border-radius: 10px;
+  width: 100%;
+  background-color: rgba(195, 140, 102, 0.2);
+}
+
+.三枝明那-bar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 2rem;
+  border-radius: 10px;
+  background-color: rgba(195, 140, 102, 1);
+}
+
+.葛葉-box {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 2rem;
+  border-radius: 10px;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.2);
+}
+
+.葛葉-bar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 2rem;
+  border-radius: 10px;
+  background-color: rgba(185, 0, 0, 1);
+}
+
+.渋谷ハジメ-box {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 2rem;
+  border-radius: 10px;
+  width: 100%;
+  background-color: rgba(60, 255, 255, 0.6);
+}
+
+.渋谷ハジメ-bar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 2rem;
+  border-radius: 10px;
+  background-color: rgba(75, 255, 126, 0.6);
+}
+
+.夢追翔-box {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 2rem;
+  border-radius: 10px;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.1);
+}
+
+.夢追翔-bar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 2rem;
+  border-radius: 10px;
+  background-color: rgba(200, 120, 120, 1);
+}
+
+.花畑チャイカ-box {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 2rem;
+  border-radius: 10px;
+  width: 100%;
+  background-color: rgba(0, 130, 0, 0.2);
+}
+
+.花畑チャイカ-bar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 2rem;
+  border-radius: 10px;
+  background-color: rgba(0, 130, 0, 1);
+}
+
+.ベルモンド・バンデラス-box {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 2rem;
+  border-radius: 10px;
+  width: 100%;
+  background-color: rgba(180, 95, 0, 0.5);
+}
+
+.ベルモンド・バンデラス-bar{
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 2rem;
+  border-radius: 10px;
+  background-color: rgba(180, 95, 0, 1);
+}
+
+.鈴木勝-box {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 2rem;
+  border-radius: 10px;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.2);
+}
+
+.鈴木勝-bar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 2rem;
+  border-radius: 10px;
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+.黛灰-box {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 2rem;
+  border-radius: 10px;
+  width: 100%;
+  background-color: rgba(15, 240, 190, 0.3);
+}
+
+.黛灰-bar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 2rem;
+  border-radius: 10px;
+  background-color: rgba(15, 240, 190, 1);
+}
+
+.長尾景-box {
+   position: absolute;
+  top: 0;
+  left: 0;
+  height: 2rem;
+  border-radius: 10px;
+  width: 100%;
+  background-color: rgba(150, 20, 255, 0.3);
+}
+
+.長尾景-bar {
+position: absolute;
+  top: 0;
+  left: 0;
+  height: 2rem;
+  border-radius: 10px;
+  background-color: rgba(150, 20, 255, 1);
+}
+
+.社築-box {
+ position: absolute;
+  top: 0;
+  left: 0;
+  height: 2rem;
+  border-radius: 10px;
+  width: 100%;
+  background-color: rgba(120, 190, 255, 0.5);
+}
+
+.社築-bar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 2rem;
+  border-radius: 10px;
+  background-color: rgba(120, 190, 255, 1);
+}
+
+.叶-box {
+    position: absolute;
+  top: 0;
+  left: 0;
+  height: 2rem;
+  border-radius: 10px;
+  width: 100%;
+  background-color: rgba(220, 187, 122, 0.5);
+}
+
+.叶-bar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 2rem;
+  border-radius: 10px;
+  background-color: rgba(220, 187, 122, 1);
+}
+
+.神田笑一-box {
+ position: absolute;
+  top: 0;
+  left: 0;
+  height: 2rem;
+  border-radius: 10px;
+  width: 100%;
+  background-color: rgba(255, 246, 135, 0.5);
+}
+
+.神田笑一-bar {
+ position: absolute;
+  top: 0;
+  left: 0;
+  height: 2rem;
+  border-radius: 10px;
+  background-color: rgba(255, 246, 135, 1);
+}
+
+.加賀美ハヤト-box {
+    position: absolute;
+  top: 0;
+  left: 0;
+  height: 2rem;
+  border-radius: 10px;
+  width: 100%;
+  background-color: rgba(117, 204, 84, 0.2);
+}
+
+.加賀美ハヤト-bar {
+position: absolute;
+  top: 0;
+  left: 0;
+  height: 2rem;
+  border-radius: 10px;
+  background-color: rgba(117, 204, 84, 1);
+}
+
+.元啓介-box {
+position: absolute;
+  top: 0;
+  left: 0;
+  height: 2rem;
+  border-radius: 10px;
+  width: 100%;
+  background-color: rgba(0, 98, 212, 0.6);
+}
+
+.元啓介-bar {
+position: absolute;
+  top: 0;
+  left: 0;
+  height: 2rem;
+  border-radius: 10px;
+  background-color: rgba(0, 98, 212, 1);
+}
+
 .percent-text {
   font-size: 1rem;
   color: #ffffff;
 }
-.animal-label {
+.nijisanji-label {
     width: 20%;
     text-align: left;
     height: 2rem;
@@ -333,61 +681,62 @@ body {
 }
 .result-message {
     font-size: 2rem;
+    font-weight: bold;
 }
 
+.align-items-center {
+    color
+}
 
-.animal-explain {
+.nijisanji-explain {
     font-size: 1.5rem;
 }
-.dinosaur-animal-title {
+.dinosaur-nijisanji-title {
     color: #3ba363;
 }
-.dinosaur-animal-celeb {
-    color: #3ba363;
-    font-size: 1.2rem;
-}
-.deer-animal-title {
-    color: #3ba363;
-}
-.deer-animal-celeb {
+.dinosaur-nijisanji-celeb {
     color: #3ba363;
     font-size: 1.2rem;
 }
-.cat-animal-title {
+.deer-nijisanji-title {
+    color: #3ba363;
+}
+.deer-nijisanji-celeb {
+    color: #3ba363;
+    font-size: 1.2rem;
+}
+.cat-nijisanji-title {
     color: #ff6c0a;
 }
-.cat-animal-celeb {
+.cat-nijisanji-celeb {
     color: #ff6c0a;
     font-size: 1.2rem;
 }
-.dog-animal-title {
+.dog-nijisanji-title {
     color: #548dd4;
 }
-.dog-animal-celeb {
+.dog-nijisanji-celeb {
     color: #548dd4;
     font-size: 1.2rem;
 }
-.rabbit-animal-title {
+.rabbit-nijisanji-title {
     color: #e56995;
 }
-.rabbit-animal-celeb {
+.rabbit-nijisanji-celeb {
     color: #e56995;
     font-size: 1.2rem;
 }
-.bear-animal-title {
+.bear-nijisanji-title {
     color: #9b6b43;
 }
-.bear-animal-celeb {
+.bear-nijisanji-celeb {
     color: #9b6b43;
     font-size: 1.2rem;
 }
-.fox-animal-title {
+.fox-nijisanji-title {
     color: #31849b;
 }
-.fox-animal-celeb {
-    color: #31849b;
-    font-size: 1.2rem;
-}
+
 
 /* gender */
 input#gender {
